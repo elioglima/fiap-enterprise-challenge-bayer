@@ -11,6 +11,9 @@
 
 ![image](https://user-images.githubusercontent.com/6618004/172706544-12be2dd5-ae73-46b5-b61b-8a10f5ebd4fb.png)
 
+# Classe de Conexão do Banco de Dados
+![image](https://user-images.githubusercontent.com/6618004/172709002-a4edf810-f3ce-4249-b265-edb19e22fa34.png)
+
 # Cadastro de usuário
 ![image](https://user-images.githubusercontent.com/6618004/172705560-dfcfe6d5-fa06-4a1c-ba14-195a0c840e41.png)
 

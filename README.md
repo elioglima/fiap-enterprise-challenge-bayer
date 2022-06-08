@@ -11,9 +11,6 @@
 
 ![image](https://user-images.githubusercontent.com/6618004/172706544-12be2dd5-ae73-46b5-b61b-8a10f5ebd4fb.png)
 
-![image](https://user-images.githubusercontent.com/6618004/172706743-3633470a-d4e8-46a4-942d-2d87cc852c68.png)
-
-
 # Cadastro de usuário
 ![image](https://user-images.githubusercontent.com/6618004/172705560-dfcfe6d5-fa06-4a1c-ba14-195a0c840e41.png)
 

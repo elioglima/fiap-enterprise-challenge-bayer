@@ -3,6 +3,14 @@
 # Enterprise Challenge
   - fiap-enterprise-challenge-bayer
   - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+![image](https://user-images.githubusercontent.com/6618004/172709336-5f2b8518-f533-4eed-bf7b-fa034a6ef4e7.png)
+
+![diagram01](https://user-images.githubusercontent.com/6618004/172709241-c147a35f-46fc-4ca7-b12e-e4af3290e206.jpeg)
+
+![image](https://user-images.githubusercontent.com/6618004/172707049-c4cecca9-b386-437f-8e2d-2d327d2bcca6.png)
+
+![image](https://user-images.githubusercontent.com/6618004/172707127-00de104c-e167-4699-8765-e066368a160f.png)
+
 
 # Execução da aplicação
 ![image](https://user-images.githubusercontent.com/6618004/172704580-9305dcca-f527-463f-88e2-fbd4cbd3eda7.png)
@@ -32,10 +40,6 @@
 # Utilitários
 ![image](https://user-images.githubusercontent.com/6618004/172705782-195dd1d3-af0e-49ec-a1da-47b9c5ec1e92.png)
 
-
-![image](https://user-images.githubusercontent.com/6618004/172707049-c4cecca9-b386-437f-8e2d-2d327d2bcca6.png)
-
-![image](https://user-images.githubusercontent.com/6618004/172707127-00de104c-e167-4699-8765-e066368a160f.png)
 
 
 

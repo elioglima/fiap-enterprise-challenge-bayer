@@ -102,7 +102,7 @@ Insert into RM92270.BAYER_USER (ID,NAME,MAIL,PASSWORD,DOCUMENUMBER,"birthdate ",
 	values (3,'Kaique Bernardo','kaique.bernardo@gmail.com','Ab@45678','089.214.540-47',to_date('08-JUN-22','DD-MON-RR'),to_timestamp('08-JUN-22 12.10.17.607000000 AM','DD-MON-RR HH.MI.SSXFF AM'),to_timestamp('08-JUN-22 12.10.22.002000000 AM','DD-MON-RR HH.MI.SSXFF AM'),1,1);
 	
 Insert into RM92270.BAYER_USER (ID,NAME,MAIL,PASSWORD,DOCUMENUMBER,"birthdate ",DATE_CREATE,DATE_UPDATE,DOCUMENTTYPE_ID,INSTITUTION_ID) 
-	values (4,'Andrei Vedovato','Andrei andrei.vedovato@gmail.com','Ab@45678','089.214.540-47',to_date('08-JUN-22','DD-MON-RR'),to_timestamp('08-JUN-22 12.10.17.607000000 AM','DD-MON-RR HH.MI.SSXFF AM'),to_timestamp('08-JUN-22 12.10.22.002000000 AM','DD-MON-RR HH.MI.SSXFF AM'),1,3);
+	values (4,'Andrei Vedovato','andrei.vedovato@gmail.com','Ab@45678','089.214.540-47',to_date('08-JUN-22','DD-MON-RR'),to_timestamp('08-JUN-22 12.10.17.607000000 AM','DD-MON-RR HH.MI.SSXFF AM'),to_timestamp('08-JUN-22 12.10.22.002000000 AM','DD-MON-RR HH.MI.SSXFF AM'),1,3);
 	
 
 REM INSERTING into RM92270.BAYER_USERADDRESS

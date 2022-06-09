@@ -8,8 +8,7 @@
 ![image](https://user-images.githubusercontent.com/6618004/172709336-5f2b8518-f533-4eed-bf7b-fa034a6ef4e7.png)
 
 # Estrutura 
-
-![diagram01](https://user-images.githubusercontent.com/6618004/172709241-c147a35f-46fc-4ca7-b12e-e4af3290e206.jpeg)
+![image](https://user-images.githubusercontent.com/6618004/172960562-6aaedc11-4df0-40e3-bcd8-22cf73db1024.png)
 
 # Diagrama de Classe
 

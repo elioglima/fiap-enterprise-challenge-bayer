@@ -5,18 +5,13 @@
   - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 ![image](https://user-images.githubusercontent.com/6618004/172709336-5f2b8518-f533-4eed-bf7b-fa034a6ef4e7.png)
 
-# Diagrama de Classe
-
-![Diagrama em branco - Página 1](https://user-images.githubusercontent.com/6618004/172755067-7009762c-dc73-4dfa-9213-2bfc8282ab73.png)
-
 # Estrutura 
 
 ![diagram01](https://user-images.githubusercontent.com/6618004/172709241-c147a35f-46fc-4ca7-b12e-e4af3290e206.jpeg)
 
-![image](https://user-images.githubusercontent.com/6618004/172707049-c4cecca9-b386-437f-8e2d-2d327d2bcca6.png)
+# Diagrama de Classe
 
-![image](https://user-images.githubusercontent.com/6618004/172707127-00de104c-e167-4699-8765-e066368a160f.png)
-
+![Diagrama em branco - Página 1](https://user-images.githubusercontent.com/6618004/172755067-7009762c-dc73-4dfa-9213-2bfc8282ab73.png)
 
 
 # Execução da aplicação
@@ -31,6 +26,12 @@
 
 # Classe de Conexão do Banco de Dados
 ![image](https://user-images.githubusercontent.com/6618004/172709002-a4edf810-f3ce-4249-b265-edb19e22fa34.png)
+
+# Banco de Dados
+![image](https://user-images.githubusercontent.com/6618004/172707049-c4cecca9-b386-437f-8e2d-2d327d2bcca6.png)
+
+![image](https://user-images.githubusercontent.com/6618004/172707127-00de104c-e167-4699-8765-e066368a160f.png)
+
 
 # Create database 
 - [download](https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql)

@@ -41,8 +41,11 @@
 ![image](https://user-images.githubusercontent.com/6618004/172705782-195dd1d3-af0e-49ec-a1da-47b9c5ec1e92.png)
 
 
-# Create database :: [Flex Grid](https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql)
-# Inserts :: <a href="https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql">download</a>
+# Create database 
+- [download](https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql)
+
+# Inserts 
+- [download](https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/database.sql)
 
   	REM INSERTING into RM92270.BAYER_ALERTPOINT
     	SET DEFINE OFF;

@@ -11,6 +11,9 @@
 
 ![image](https://user-images.githubusercontent.com/6618004/172707127-00de104c-e167-4699-8765-e066368a160f.png)
 
+# Diagrama de Classe
+
+![Diagrama em branco - Página 1](https://user-images.githubusercontent.com/6618004/172755067-7009762c-dc73-4dfa-9213-2bfc8282ab73.png)
 
 # Execução da aplicação
 ![image](https://user-images.githubusercontent.com/6618004/172704580-9305dcca-f527-463f-88e2-fbd4cbd3eda7.png)

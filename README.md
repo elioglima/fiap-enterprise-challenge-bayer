@@ -40,8 +40,7 @@
 # Utilitários
 ![image](https://user-images.githubusercontent.com/6618004/172705782-195dd1d3-af0e-49ec-a1da-47b9c5ec1e92.png)
 
-# Inserts
-[download]([https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql])
+# Inserts :: <a href="https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql">download</a>
 
   	REM INSERTING into RM92270.BAYER_ALERTPOINT
     	SET DEFINE OFF;

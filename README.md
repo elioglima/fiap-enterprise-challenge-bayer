@@ -34,6 +34,9 @@
 
 ![image](https://user-images.githubusercontent.com/6618004/172707127-00de104c-e167-4699-8765-e066368a160f.png)
 
+![image](https://user-images.githubusercontent.com/6618004/172761179-e6977b38-c11c-49af-b3f5-b2b6260ed1c7.png)
+
+![image](https://user-images.githubusercontent.com/6618004/172761237-52a143f9-b5c9-427d-97fe-bbbec89d4c5a.png)
 
 # Create database 
 - [download](https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/inserts.sql)

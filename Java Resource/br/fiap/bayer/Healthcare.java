@@ -15,8 +15,7 @@ public class Healthcare {
 				return;
 			}
 			
-			
-			
+				
 			User user = new User(Connection);
 		
 //			// CADASTRO DE USUARIO - ACESSO AO SISTEMA

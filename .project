@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>health-track-final</name>
+	<name>fiap-enterprise-challenge-bayer</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -30,7 +30,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1653775432429</id>
+			<id>0</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

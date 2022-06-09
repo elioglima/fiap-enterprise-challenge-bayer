@@ -1,6 +1,5 @@
 package br.fiap.bayer;
 
-import java.util.Base64;
 import java.util.Date;
 
 import br.fiap.bayer.db.ConnectionManager;

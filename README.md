@@ -3,9 +3,8 @@
 # Enterprise Challenge
   - fiap-enterprise-challenge-bayer
   - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-  - 
   - [Apresentação](https://github.com/elioglima/fiap-enterprise-challenge-bayer/blob/main/docs/Enterprise%20Challenge%20-%20Firebug.pdf)
--
+
 ![image](https://user-images.githubusercontent.com/6618004/172709336-5f2b8518-f533-4eed-bf7b-fa034a6ef4e7.png)
 
 # Estrutura 
